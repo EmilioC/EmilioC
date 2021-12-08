@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Emilio Córdoba 👋
 
 🌱 I’m currently learning ... Angular, Node, Swift, Flutter and Dart
 <!--
