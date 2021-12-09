@@ -27,7 +27,7 @@ I'm a software developer.
 [![Android_Studio](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=101010)]()
 </br>
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](hhttps://www.linkedin.com/in/emilio-c%C3%B3rdoba-rojano-03105250/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emilio_Córdoba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](hhttps://www.linkedin.com/in/emilio-c%C3%B3rdoba-rojano-03105250/)
 [![Web](https://img.shields.io/badge/My_Website-Emilio_web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sites.google.com/view/javascript-learn/conocimientos)
 
 
