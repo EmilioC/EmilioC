@@ -1,7 +1,6 @@
-# Hello  👋 my name is Emilio Córdoba
+# Hello, folks! <img src="https://raw.githubusercontent.com/Caballerog/caballerog/master/wave.gif" width="30px">
 
-I'm a software developer.
-
+My name is Emilio Córdoba and I'm a software developer. I'm from Spain, living in Córdoba
 
 ## Skills:
 
